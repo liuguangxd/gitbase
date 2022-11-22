@@ -6,6 +6,7 @@ public class Demo01 {
         int b=1;
         int c=2;
         int d=22;
-        int e=225;
+        int e=339;
+        int f=225;
     }
 }
